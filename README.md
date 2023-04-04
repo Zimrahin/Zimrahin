@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zimrahin/Simple-View-Counter">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Zimrahin&label=Profile%20views&color=006aff&style=flat-square"/>
   </a>
 </p>
