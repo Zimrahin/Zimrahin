@@ -19,7 +19,7 @@
     <!-- Right GitHub readme stats -->
     <td style="width: 33%; text-align: right; vertical-align: top;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimrahin&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;disable_animations=true" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimrahin&amp;layout=compact&amp;theme=transparent&amp;hide_border=false&amp;disable_animations=true" 
              alt="Top Languages" 
              style="max-height: 150px;" />
       </a>
