@@ -1,10 +1,5 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-  <!-- Left GitHub readme stats -->
-  <div style="flex: 1 1 250px; text-align: center; margin: 0;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Zimrahin&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;custom_title=Zimrahin's+GitHub+Stats&amp;disable_animations=true&amp;hide=prs" alt="GitHub Stats" />
-    </a>
-  </div>
+
 
   <!-- Artstation image (always centered) -->
   <div style="flex: 1 1 200px; text-align: center; margin: 0;">
