@@ -1,7 +1,7 @@
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <!-- Left GitHub readme stats -->
-    <td style="width: 33%; text-align: left; vertical-align: top;">
+    <td style="width: 33%; text-align: left; vertical-align: top; border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Zimrahin&amp;show_icons=true&amp;theme=onedark&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=false&amp;custom_title=Zimrahin's+GitHub+Stats&amp;disable_animations=true&amp" 
              alt="GitHub Stats" 
@@ -9,7 +9,7 @@
       </a>
     </td>
     <!-- Artstation image (always centered) -->
-    <td style="width: 33%; text-align: center; vertical-align: top;">
+    <td style="width: 33%; text-align: center; vertical-align: top; border: none;">
       <a href="https://www.artstation.com/artwork/r9neD5">
         <img src="https://cdnb.artstation.com/p/assets/images/images/052/142/157/original/johan-cediel-rodriguez-pixel-artv2exp.gif?1659037637" 
              alt="Artstation Image" 
@@ -17,7 +17,7 @@
       </a>
     </td>
     <!-- Right GitHub readme stats -->
-    <td style="width: 33%; text-align: right; vertical-align: top;">
+    <td style="width: 33%; text-align: right; vertical-align: top; border: none;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimrahin&amp;layout=compact&amp;theme=onedark&amp;hide_border=true&amp;disable_animations=true" 
              alt="Top Languages" 
