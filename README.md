@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <!-- Left GitHub readme stats (min-width forces a new line if window too narrow) -->
-  <div style="display: inline-block; max-height: 100px; text-align: left; vertical-align: top;">
+  <div style="display: inline-block; max-height: 2px; text-align: left; vertical-align: top;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Zimrahin&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;custom_title=Zimrahin's+GitHub+Stats&amp;disable_animations=true&amp;hide=prs" alt="GitHub Stats" />
     </a>
